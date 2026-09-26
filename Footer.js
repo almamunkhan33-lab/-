@@ -1,0 +1,1 @@
+export default function Footer(){return <footer className="footer"><div className="container"><h2>নতুন দিনের বার্তা</h2><p>স্বাধীন, দায়িত্বশীল ও তথ্যভিত্তিক সংবাদ পরিবেশনের একটি অনলাইন উদ্যোগ।</p><p>© ২০২৬ নতুন দিনের বার্তা — সর্বস্বত্ব সংরক্ষিত।</p></div></footer>}
